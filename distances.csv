@@ -1,0 +1,329 @@
+Reference Station,Station,Distance,Route
+Central,Central,0,Central to Glenfield via Regents Park
+Central,Redfern,1.31,Central to Glenfield via Regents Park
+Central,Macdonaldtown,2.5,Central to Glenfield via Regents Park
+Central,Newtown,3.12,Central to Glenfield via Regents Park
+Central,Stanmore,4.67,Central to Glenfield via Regents Park
+Central,Petersham,5.49,Central to Glenfield via Regents Park
+Central,Lewisham,6.26,Central to Glenfield via Regents Park
+Central,Summer Hill,7.05,Central to Glenfield via Regents Park
+Central,Ashfield,8.4,Central to Glenfield via Regents Park
+Central,Croydon,9.44,Central to Glenfield via Regents Park
+Central,Burwood,10.62,Central to Glenfield via Regents Park
+Central,Strathfield,11.73,Central to Glenfield via Regents Park
+Central,Homebush,12.74,Central to Glenfield via Regents Park
+Central,Flemington,14.32,Central to Glenfield via Regents Park
+Central,Lidcombe,16.58,Central to Glenfield via Regents Park
+Central,Berala,18.35,Central to Glenfield via Regents Park
+Central,Regents Park,19.88,Central to Glenfield via Regents Park
+Central,Sefton,21.18,Central to Glenfield via Regents Park
+Central,Chester Hill,22.31,Central to Glenfield via Regents Park
+Central,Leightonfield,23.66,Central to Glenfield via Regents Park
+Central,Villawood,24.48,Central to Glenfield via Regents Park
+Central,Carramar,25.9,Central to Glenfield via Regents Park
+Central,Cabramatta,28.45,Central to Glenfield via Regents Park
+Central,Warwick Farm,30.54,Central to Glenfield via Regents Park
+Central,Liverpool,32.09,Central to Glenfield via Regents Park
+Central,Casula,35.27,Central to Glenfield via Regents Park
+Central,Glenfield,38.32,Central to Glenfield via Regents Park
+Central,Glenfield,33.12,Central to Goulburn via East Hills
+Central,Macquarie Fields,35.07,Central to Goulburn via East Hills
+Central,Ingleburn,36.9,Central to Goulburn via East Hills
+Central,Minto,40.95,Central to Goulburn via East Hills
+Central,Leumeah,43.82,Central to Goulburn via East Hills
+Central,Campbelltown,45.9,Central to Goulburn via East Hills
+Central,Macarthur,45.9,Central to Goulburn via East Hills
+Central,Menangle Park,54.08,Central to Goulburn via East Hills
+Central,Menangle,56.56,Central to Goulburn via East Hills
+Central,Douglas Park,64.55,Central to Goulburn via East Hills
+Central,Picton,76.47,Central to Goulburn via East Hills
+Central,Tahmoor,85.8,Central to Goulburn via East Hills
+Central,Bargo,94.8,Central to Goulburn via East Hills
+Central,Yerrinbool,107.8,Central to Goulburn via East Hills
+Central,Mittagong,123.8,Central to Goulburn via East Hills
+Central,Bowral,127.8,Central to Goulburn via East Hills
+Central,Burradoo,130.8,Central to Goulburn via East Hills
+Central,Moss Vale,137.8,Central to Goulburn via East Hills
+Central,Exeter,147.8,Central to Goulburn via East Hills
+Central,Bundanoon,153.8,Central to Goulburn via East Hills
+Central,Penrose,162.8,Central to Goulburn via East Hills
+Central,Wingello,168.8,Central to Goulburn via East Hills
+Central,Tallong,176.8,Central to Goulburn via East Hills
+Central,Marulan,184.8,Central to Goulburn via East Hills
+Central,Goulburn,216.8,Central to Goulburn via East Hills
+Kings Cross,Edgecliff,1.42,Kings Cross to Bondi Junction via ESR
+Kings Cross,Bondi Junction,3.4,Kings Cross to Bondi Junction via ESR
+Wynyard,Wynyard,0,Wynyard to Hornsby via SHB
+Wynyard,Milsons Point,2.39,Wynyard to Hornsby via SHB
+Wynyard,North Sydney,3.1,Wynyard to Hornsby via SHB
+Wynyard,Waverton,4.1,Wynyard to Hornsby via SHB
+Wynyard,Wollstonecraft,5.13,Wynyard to Hornsby via SHB
+Wynyard,St. Leonards,6.38,Wynyard to Hornsby via SHB
+Wynyard,Artarmon,8.29,Wynyard to Hornsby via SHB
+Wynyard,Chatswood,9.64,Wynyard to Hornsby via SHB
+Wynyard,Roseville,11.27,Wynyard to Hornsby via SHB
+Wynyard,Lindfield,12.57,Wynyard to Hornsby via SHB
+Wynyard,Killara,13.86,Wynyard to Hornsby via SHB
+Wynyard,Gordon,15.09,Wynyard to Hornsby via SHB
+Wynyard,Pymble,16.86,Wynyard to Hornsby via SHB
+Wynyard,Turramurra,18.79,Wynyard to Hornsby via SHB
+Wynyard,Warrawee,19.86,Wynyard to Hornsby via SHB
+Wynyard,Wahroonga,20.74,Wynyard to Hornsby via SHB
+Wynyard,Waitara,22.17,Wynyard to Hornsby via SHB
+Wynyard,Hornsby,23.24,Wynyard to Hornsby via SHB
+Wynyard,Chatswood,9.64,Wynyard to Epping via ECRL/NW Metro
+Wynyard,North Ryde,16.18,Wynyard to Epping via ECRL/NW Metro
+Wynyard,Macquarie Park,17.59,Wynyard to Epping via ECRL/NW Metro
+Wynyard,Macquarie University,18.86,Wynyard to Epping via ECRL/NW Metro
+Wynyard,Epping,22.78,Wynyard to Epping via ECRL/NW Metro
+Central,Central,0,Central to Wolli Creek via Airport Line
+Central,Green Square,2.65,Central to Wolli Creek via Airport Line
+Central,Mascot,5.15,Central to Wolli Creek via Airport Line
+Central,Domestic Terminal,6.7,Central to Wolli Creek via Airport Line
+Central,International Terminal,8.2,Central to Wolli Creek via Airport Line
+Central,Wolli Creek,9.5,Central to Wolli Creek via Airport Line
+Flemington,Olympic Park,2.4,Flemington to Olympic Park
+Central,Waitara,34.93,Central to North Shore Line via Strathfield
+Central,Wahroonga,36.36,Central to North Shore Line via Strathfield
+Central,Warrawee,37.24,Central to North Shore Line via Strathfield
+Central,Turramurra,38.31,Central to North Shore Line via Strathfield
+Central,Pymble,40.24,Central to North Shore Line via Strathfield
+Central,Gordon,42.01,Central to North Shore Line via Strathfield
+Central,Killara,43.24,Central to North Shore Line via Strathfield
+Central,Lindfield,44.53,Central to North Shore Line via Strathfield
+Central,Roseville,45.83,Central to North Shore Line via Strathfield
+Central,Chatswood,47.46,Central to North Shore Line via Strathfield
+Central,Artarmon,48.81,Central to North Shore Line via Strathfield
+Central,St. Leonards,50.72,Central to North Shore Line via Strathfield
+Central,Wollstonecraft,51.97,Central to North Shore Line via Strathfield
+Central,Waverton,53,Central to North Shore Line via Strathfield
+Central,North Sydney,54,Central to North Shore Line via Strathfield
+Central,Milsons Point,54.71,Central to North Shore Line via Strathfield
+Central,Wynyard,57.1,Central to North Shore Line via Strathfield
+Central,Redfern,1.31,Central to Northern Line via Strathfield
+Central,Strathfield,11.73,Central to Northern Line via Strathfield
+Central,North Strathfield,13.4,Central to Northern Line via Strathfield
+Central,Concord West,14.55,Central to Northern Line via Strathfield
+Central,Rhodes,16.56,Central to Northern Line via Strathfield
+Central,Meadowbank,18.19,Central to Northern Line via Strathfield
+Central,West Ryde,19.19,Central to Northern Line via Strathfield
+Central,Denistone,20.16,Central to Northern Line via Strathfield
+Central,Eastwood,21.42,Central to Northern Line via Strathfield
+Central,Epping,23.32,Central to Northern Line via Strathfield
+Central,Cheltenham,25.39,Central to Northern Line via Strathfield
+Central,Beecroft,26.9,Central to Northern Line via Strathfield
+Central,Pennant Hills,28.57,Central to Northern Line via Strathfield
+Central,Thornleigh,29.41,Central to Northern Line via Strathfield
+Central,Normanhurst,31.74,Central to Northern Line via Strathfield
+Central,Hornsby,33.86,Central to Northern Line via Strathfield
+Central,Asquith,35.71,Central to Northern Line via Strathfield
+Central,Mount Colah,37.68,Central to Northern Line via Strathfield
+Central,Mount Kuring-gai,40.68,Central to Northern Line via Strathfield
+Central,Berowra,44.66,Central to Northern Line via Strathfield
+Central,Cowan,48.8,Central to Central Coast Newcastle Line via Strathfield
+Central,Hawkesbury River,57.37,Central to Central Coast Newcastle Line via Strathfield
+Central,Wondabyne,65.16,Central to Central Coast Newcastle Line via Strathfield
+Central,Woy Woy,72.6,Central to Central Coast Newcastle Line via Strathfield
+Central,Koolewong,74.83,Central to Central Coast Newcastle Line via Strathfield
+Central,Tascott,76.91,Central to Central Coast Newcastle Line via Strathfield
+Central,Point Clare,78.05,Central to Central Coast Newcastle Line via Strathfield
+Central,Gosford,80.91,Central to Central Coast Newcastle Line via Strathfield
+Central,Narara,84.59,Central to Central Coast Newcastle Line via Strathfield
+Central,Niagara Park,86.2,Central to Central Coast Newcastle Line via Strathfield
+Central,Lisarow,87.73,Central to Central Coast Newcastle Line via Strathfield
+Central,Ourimbah,90.61,Central to Central Coast Newcastle Line via Strathfield
+Central,Tuggerah,98.53,Central to Central Coast Newcastle Line via Strathfield
+Central,Wyong,101.05,Central to Central Coast Newcastle Line via Strathfield
+Central,Warnervale,105.9,Central to Central Coast Newcastle Line via Strathfield
+Central,Wyee,114.87,Central to Central Coast Newcastle Line via Strathfield
+Central,Morisset,123.42,Central to Central Coast Newcastle Line via Strathfield
+Central,Dora Creek,127.2,Central to Central Coast Newcastle Line via Strathfield
+Central,Awaba,137.3,Central to Central Coast Newcastle Line via Strathfield
+Central,Fassifern,142.33,Central to Central Coast Newcastle Line via Strathfield
+Central,Redfern,1.31,Central to North Wollongong via Illawarra Line
+Central,Erskineville,2.9,Central to North Wollongong via Illawarra Line
+Central,St Peters,3.82,Central to North Wollongong via Illawarra Line
+Central,Sydenham,5.33,Central to North Wollongong via Illawarra Line
+Central,Tempe,6.84,Central to North Wollongong via Illawarra Line
+Central,Wolli Creek,7.39,Central to North Wollongong via Illawarra Line
+Central,Arncliffe,8.43,Central to North Wollongong via Illawarra Line
+Central,Banksia,9.6,Central to North Wollongong via Illawarra Line
+Central,Rockdale,10.42,Central to North Wollongong via Illawarra Line
+Central,Kogarah,11.61,Central to North Wollongong via Illawarra Line
+Central,Carlton,12.73,Central to North Wollongong via Illawarra Line
+Central,Allawah,13.68,Central to North Wollongong via Illawarra Line
+Central,Scarborough,62.52,Central to North Wollongong via Illawarra Line
+Central,Wombarra,64.29,Central to North Wollongong via Illawarra Line
+Central,Coledale,66.22,Central to North Wollongong via Illawarra Line
+Central,Austinmer,68.58,Central to North Wollongong via Illawarra Line
+Central,Thirroul,70.23,Central to North Wollongong via Illawarra Line
+Central,Bulli,72.14,Central to North Wollongong via Illawarra Line
+Central,Woonona,73.93,Central to North Wollongong via Illawarra Line
+Central,Bellambi,75.52,Central to North Wollongong via Illawarra Line
+Central,Corrimal,76.99,Central to North Wollongong via Illawarra Line
+Central,Towradgi,78.03,Central to North Wollongong via Illawarra Line
+Central,Fairy Meadow,79.38,Central to North Wollongong via Illawarra Line
+Central,North Wollongong,81.31,Central to North Wollongong via Illawarra Line
+Central,Granville,21.38,Granville to Cabramatta
+Central,Merrylands,23.5,Granville to Cabramatta
+Central,Guildford,25.71,Granville to Cabramatta
+Central,Yennora,27.44,Granville to Cabramatta
+Central,Fairfield,28.97,Granville to Cabramatta
+Central,Canley Vale,31,Granville to Cabramatta
+Central,Cabramatta,32.03,Granville to Cabramatta
+Central,Sydenham,5.33,Lidcombe to Sydenham via Sydenham
+Central,Marrickville,6.58,Lidcombe to Sydenham via Sydenham
+Central,Dulwich Hill,7.87,Lidcombe to Sydenham via Sydenham
+Central,Hurlstone Park,8.79,Lidcombe to Sydenham via Sydenham
+Central,Canterbury,10.16,Lidcombe to Sydenham via Sydenham
+Central,Campsie,11.69,Lidcombe to Sydenham via Sydenham
+Central,Belmore,13.26,Lidcombe to Sydenham via Sydenham
+Central,Lakemba,14.48,Lidcombe to Sydenham via Sydenham
+Central,Wiley Park,15.35,Lidcombe to Sydenham via Sydenham
+Central,Punchbowl,16.46,Lidcombe to Sydenham via Sydenham
+Central,Bankstown,18.71,Lidcombe to Sydenham via Sydenham
+Central,Yagoona,20.56,Lidcombe to Sydenham via Sydenham
+Central,Birrong,22.11,Lidcombe to Sydenham via Sydenham
+Central,Regents Park,23.58,Lidcombe to Sydenham via Sydenham
+Central,Berala,25.11,Lidcombe to Sydenham via Sydenham
+Central,Lidcombe,26.88,Lidcombe to Sydenham via Sydenham
+Central,Sydenham,38.13,Lidcombe to Sydenham via Regents Park
+Central,Marrickville,36.88,Lidcombe to Sydenham via Regents Park
+Central,Dulwich Hill,35.59,Lidcombe to Sydenham via Regents Park
+Central,Hurlstone Park,34.67,Lidcombe to Sydenham via Regents Park
+Central,Canterbury,33.3,Lidcombe to Sydenham via Regents Park
+Central,Campsie,31.77,Lidcombe to Sydenham via Regents Park
+Central,Belmore,30.2,Lidcombe to Sydenham via Regents Park
+Central,Lakemba,28.98,Lidcombe to Sydenham via Regents Park
+Central,Wiley Park,28.11,Lidcombe to Sydenham via Regents Park
+Central,Punchbowl,27,Lidcombe to Sydenham via Regents Park
+Central,Bankstown,24.75,Lidcombe to Sydenham via Regents Park
+Central,Yagoona,22.9,Lidcombe to Sydenham via Regents Park
+Central,Birrong,21.35,Lidcombe to Sydenham via Regents Park
+Central,Regents Park,19.88,Lidcombe to Sydenham via Regents Park
+Central,Berala,18.35,Lidcombe to Sydenham via Regents Park
+Central,Lidcombe,16.58,Lidcombe to Sydenham via Regents Park
+Epping,Cherrybrook,6.38,Epping to Cherrybrook via NWRL
+Epping,Castle Hill,8.78,Epping to Cherrybrook via NWRL
+Epping,Hills Showground,10.88,Epping to Cherrybrook via NWRL
+Epping,Norwest,13.18,Epping to Cherrybrook via NWRL
+Epping,Bella Vista,15.48,Epping to Cherrybrook via NWRL
+Epping,Kellyville,17.58,Epping to Cherrybrook via NWRL
+Epping,Rouse Hill,20.18,Epping to Cherrybrook via NWRL
+Epping,Tallawong,22.18,Epping to Cherrybrook via NWRL
+Central,Hurstville,14.81,Central to North Wollongong via Illawarra Line
+Central,Penshurst,16.11,Central to North Wollongong via Illawarra Line
+Central,Mortdale,17.04,Central to North Wollongong via Illawarra Line
+Central,Oatley,18.27,Central to North Wollongong via Illawarra Line
+Central,Como,20.36,Central to North Wollongong via Illawarra Line
+Central,Jannali,22.71,Central to North Wollongong via Illawarra Line
+Central,Sutherland,24.72,Central to North Wollongong via Illawarra Line
+Central,Loftus,26.27,Central to North Wollongong via Illawarra Line
+Central,Engadine,30.72,Central to North Wollongong via Illawarra Line
+Central,Heathcote,33.13,Central to North Wollongong via Illawarra Line
+Central,Waterfall,38.74,Central to North Wollongong via Illawarra Line
+Central,Helensburgh,46.39,Central to North Wollongong via Illawarra Line
+Central,Otford,52.65,Central to North Wollongong via Illawarra Line
+Central,Stanwell Park,55.95,Central to North Wollongong via Illawarra Line
+Central,Wollongong,82.92,Central to North Wollongong via Illawarra Line
+Central,Coniston,84.11,Central to North Wollongong via Illawarra Line
+Central,Unanderra,88.31,Central to North Wollongong via Illawarra Line
+Central,Kembla Grange,91.59,Central to North Wollongong via Illawarra Line
+Central,Dapto,95.07,Central to North Wollongong via Illawarra Line
+Central,Albion Park,103.32,Central to North Wollongong via Illawarra Line
+Central,Oak Flats,105.19,Central to North Wollongong via Illawarra Line
+Central,Shellharbour Junction,110.66,Central to North Wollongong via Illawarra Line
+Central,Minnamurra,113.4,Central to North Wollongong via Illawarra Line
+Central,Bombo,117.54,Central to North Wollongong via Illawarra Line
+Central,Kiama,119.17,Central to North Wollongong via Illawarra Line
+Central,Gerringong,128.53,Central to North Wollongong via Illawarra Line
+Central,Berry,140.84,Central to North Wollongong via Illawarra Line
+Central,Nowra,153.37,Central to North Wollongong via Illawarra Line
+Central,Coal Cliff,59.24,Central to North Wollongong via Illawarra Line
+Central,Tempe,6.84,Tempe to Macarthur via East Hills
+Central,Wolli Creek,7.39,Tempe to Macarthur via East Hills
+Central,Turrella,8.63,Tempe to Macarthur via East Hills
+Central,Bardwell Park,10.1,Tempe to Macarthur via East Hills
+Central,Bexley North,11.37,Tempe to Macarthur via East Hills
+Central,Kingsgrove,12.63,Tempe to Macarthur via East Hills
+Central,Beverly Hills,14.65,Tempe to Macarthur via East Hills
+Central,Narwee,15.79,Tempe to Macarthur via East Hills
+Central,Riverwood,17.5,Tempe to Macarthur via East Hills
+Central,Padstow,19.33,Tempe to Macarthur via East Hills
+Central,Panania,22.55,Tempe to Macarthur via East Hills
+Central,East Hills,24.02,Tempe to Macarthur via East Hills
+Central,Holsworthy,26.84,Tempe to Macarthur via East Hills
+Central,Glenfield,33.12,Tempe to Macarthur via East Hills
+Central,Macquarie Fields,35.07,Tempe to Macarthur via East Hills
+Central,Ingleburn,36.9,Tempe to Macarthur via East Hills
+Central,Minto,40.95,Tempe to Macarthur via East Hills
+Central,Leumeah,43.82,Tempe to Macarthur via East Hills
+Central,Campbelltown,45.9,Tempe to Macarthur via East Hills
+Central,Macarthur,45.9,Tempe to Macarthur via East Hills
+Central,Revesby,20.96,Tempe to Macarthur via East Hills
+Central,Sutherland,24.72,Sutherland to Cronulla
+Central,Kirrawee,26.62,Sutherland to Cronulla
+Central,Gymea,27.92,Sutherland to Cronulla
+Central,Miranda,29.49,Sutherland to Cronulla
+Central,Caringbah,31.5,Sutherland to Cronulla
+Central,Woolooware,33.59,Sutherland to Cronulla
+Central,Cronulla,34.8,Sutherland to Cronulla
+Central,Lidcombe,16.58,Lidcombe to Zig Zag via Blacktown
+Central,Auburn,18.65,Lidcombe to Zig Zag via Blacktown
+Central,Glenbrook,67.09,Lidcombe to Zig Zag via Blacktown
+Central,Clyde,20.64,Lidcombe to Zig Zag via Blacktown
+Central,Granville,21.38,Lidcombe to Zig Zag via Blacktown
+Central,Harris Park,22.54,Lidcombe to Zig Zag via Blacktown
+Central,Parramatta,23.2,Lidcombe to Zig Zag via Blacktown
+Central,Westmead,25.11,Lidcombe to Zig Zag via Blacktown
+Central,Wentworthville,26.72,Lidcombe to Zig Zag via Blacktown
+Central,Pendle Hill,28.26,Lidcombe to Zig Zag via Blacktown
+Central,Toongabbie,29.93,Lidcombe to Zig Zag via Blacktown
+Central,Seven Hills,32.09,Lidcombe to Zig Zag via Blacktown
+Central,Blacktown,34.8,Lidcombe to Zig Zag via Blacktown
+Central,Doonside,38.55,Lidcombe to Zig Zag via Blacktown
+Central,Rooty Hill,40.94,Lidcombe to Zig Zag via Blacktown
+Central,Mount Druitt,43.9,Lidcombe to Zig Zag via Blacktown
+Central,St. Marys,47.48,Lidcombe to Zig Zag via Blacktown
+Central,Werrington,49.15,Lidcombe to Zig Zag via Blacktown
+Central,Kingswood,52.67,Lidcombe to Zig Zag via Blacktown
+Central,Penrith,55.1,Lidcombe to Zig Zag via Blacktown
+Central,Emu Plains,57.47,Lidcombe to Zig Zag via Blacktown
+Central,Lapstone,63.61,Lidcombe to Zig Zag via Blacktown
+Central,Lithgow,155.78,Lidcombe to Zig Zag via Blacktown
+Central,Blaxland,71.48,Lidcombe to Zig Zag via Blacktown
+Central,Warrimoo,74.29,Lidcombe to Zig Zag via Blacktown
+Central,Valley Heights,77.41,Lidcombe to Zig Zag via Blacktown
+Central,Springwood,79.7,Lidcombe to Zig Zag via Blacktown
+Central,Faulconbridge,82.96,Lidcombe to Zig Zag via Blacktown
+Central,Linden,86.8,Lidcombe to Zig Zag via Blacktown
+Central,Woodford,90.32,Lidcombe to Zig Zag via Blacktown
+Central,Hazelbrook,93.44,Lidcombe to Zig Zag via Blacktown
+Central,Lawson,96.02,Lidcombe to Zig Zag via Blacktown
+Central,Bullaburra,97.69,Lidcombe to Zig Zag via Blacktown
+Central,Wentworth Falls,102,Lidcombe to Zig Zag via Blacktown
+Central,Leura,107.59,Lidcombe to Zig Zag via Blacktown
+Central,Katoomba,109.92,Lidcombe to Zig Zag via Blacktown
+Central,Medlow Bath,115.83,Lidcombe to Zig Zag via Blacktown
+Central,Blackheath,120.68,Lidcombe to Zig Zag via Blacktown
+Central,Mount Victoria,126.74,Lidcombe to Zig Zag via Blacktown
+Central,Bell,137.14,Lidcombe to Zig Zag via Blacktown
+Central,Zig Zag,150.68,Lidcombe to Zig Zag via Blacktown
+Central,Blacktown,34.8,Blacktown to Richmond
+Central,Marayong,37.38,Blacktown to Richmond
+Central,Quakers Hill,40.09,Blacktown to Richmond
+Central,Schofields,43.4,Blacktown to Richmond
+Central,Riverstone,45.95,Blacktown to Richmond
+Central,Vineyard,49.33,Blacktown to Richmond
+Central,Mulgrave,52.59,Blacktown to Richmond
+Central,Windsor,54.98,Blacktown to Richmond
+Central,Clarendon,57.27,Blacktown to Richmond
+Central,East Richmond,59.06,Blacktown to Richmond
+Central,Richmond,60.67,Blacktown to Richmond
+Central,Clyde,20.64,Clyde to Carlingford
+Central,Rosehill,22.37,Clyde to Carlingford
+Central,Camellia,22.91,Clyde to Carlingford
+Central,Rydalmere,24.02,Clyde to Carlingford
+Central,Dundas,24.82,Clyde to Carlingford
+Central,Telopea,26.33,Clyde to Carlingford
+Central,Carlingford,27.86,Clyde to Carlingford
