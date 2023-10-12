@@ -1,3 +1,1 @@
-# opal-fare-calculator
-
-A work-in-progress implementation of rail Opal fares in Sydney.
+# Please use the new implementation [found here](https://github.com/jxeeno/tfnsw-opal-fare-calculator)
